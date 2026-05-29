@@ -1,0 +1,8 @@
+{
+  "name": "Sonu 💗",
+  "description": "An interactive, adorable pink-themed custom love proposal experience with playful irritation questions and real-time love feedback built for Sonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
